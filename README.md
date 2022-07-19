@@ -6,7 +6,7 @@
 
 ### About me
 - 🌱 Estou cursando graduação Tecnologo em Desenvolvimento e Análise de Sistema 2/5
-- Cursei Lógica de programação e agora estou cursando HTML 
+- Estou cursando formação Front-end pela Alura 
 - Meu interesse no momento é buscar mais conhecimentos e desenvolver projetos 
 
 <!---
