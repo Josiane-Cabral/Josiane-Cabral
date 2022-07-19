@@ -10,6 +10,7 @@
 - Meu interesse no momento é buscar mais conhecimentos e desenvolver projetos 
 
 <!---
-Josiane-Cabral/Josiane-Cabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+languages and tools
+
+Html/css/Javascript/git e github/
 --->
